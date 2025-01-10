@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "NSX 3-4 back and forth",
+  "name": "NSX Version Selector",
   "description": "NSX公式ドキュメントにあるバージョン選択プルダウンリストに、3系には4.2、4系には3.2の選択肢を追加します",
   "version": "1.0",
   "icons": {

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "BRDOC",
-  "description": "",
+  "name": "HeadLinker",
+  "description": "ドキュメント内の小見出し(h2要素)に対する内部リンクをツリーメニューに追加します",
   "version": "1.0",
   "icons": {
     "16": "images/icon-16.png",
